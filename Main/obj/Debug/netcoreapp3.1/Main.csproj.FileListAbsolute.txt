@@ -1,0 +1,16 @@
+/home/samuel/Desktop/PrograAvanzada/C#/Signing/Main/bin/Debug/netcoreapp3.1/Main
+/home/samuel/Desktop/PrograAvanzada/C#/Signing/Main/bin/Debug/netcoreapp3.1/Main.deps.json
+/home/samuel/Desktop/PrograAvanzada/C#/Signing/Main/bin/Debug/netcoreapp3.1/Main.runtimeconfig.json
+/home/samuel/Desktop/PrograAvanzada/C#/Signing/Main/bin/Debug/netcoreapp3.1/Main.runtimeconfig.dev.json
+/home/samuel/Desktop/PrograAvanzada/C#/Signing/Main/bin/Debug/netcoreapp3.1/Main.dll
+/home/samuel/Desktop/PrograAvanzada/C#/Signing/Main/bin/Debug/netcoreapp3.1/Main.pdb
+/home/samuel/Desktop/PrograAvanzada/C#/Signing/Main/bin/Debug/netcoreapp3.1/Lib.dll
+/home/samuel/Desktop/PrograAvanzada/C#/Signing/Main/bin/Debug/netcoreapp3.1/Lib.pdb
+/home/samuel/Desktop/PrograAvanzada/C#/Signing/Main/obj/Debug/netcoreapp3.1/Main.csprojAssemblyReference.cache
+/home/samuel/Desktop/PrograAvanzada/C#/Signing/Main/obj/Debug/netcoreapp3.1/Main.AssemblyInfoInputs.cache
+/home/samuel/Desktop/PrograAvanzada/C#/Signing/Main/obj/Debug/netcoreapp3.1/Main.AssemblyInfo.cs
+/home/samuel/Desktop/PrograAvanzada/C#/Signing/Main/obj/Debug/netcoreapp3.1/Main.csproj.CoreCompileInputs.cache
+/home/samuel/Desktop/PrograAvanzada/C#/Signing/Main/obj/Debug/netcoreapp3.1/Main.csproj.CopyComplete
+/home/samuel/Desktop/PrograAvanzada/C#/Signing/Main/obj/Debug/netcoreapp3.1/Main.dll
+/home/samuel/Desktop/PrograAvanzada/C#/Signing/Main/obj/Debug/netcoreapp3.1/Main.pdb
+/home/samuel/Desktop/PrograAvanzada/C#/Signing/Main/obj/Debug/netcoreapp3.1/Main.genruntimeconfig.cache

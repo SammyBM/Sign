@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "X3HM5ojaOzcfaHb5NRIsJhVHwcciyMWvUZ02dGDLcELy/PNa4CsQM8l3y31SLgKkWTb3KcYJkfVloHMvKlFLSw==",
+  "success": true,
+  "projectFilePath": "/home/samuel/Desktop/PrograAvanzada/C#/Signing/Lib/Lib.csproj",
+  "expectedPackageFiles": [
+    "/home/samuel/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/home/samuel/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
